@@ -1,0 +1,14 @@
+.body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+.result{
+    background: linear-gradient(135deg,#0F3443 , #34E89E);
+    height: 100vh;
+}
+.result h1{
+    padding-top: 30%;
+    padding-left: 40%;
+}
