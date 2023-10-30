@@ -1,65 +1,50 @@
 {
     "categories": [
         {
-            "name": "Math",
+            "name": "Laravel",
             "quizzes": [
                 {
-                    "name": "Addition",
+                    "name": "Basics",
                     "questions": [
                         {
-                            "question": "What is 2 + 2?",
-                            "options": ["3", "4", "5", "6"],
-                            "correct_answer": "4"
+                            "question": "Who Created Laravel?",
+                            "options": ["Margon Stan", "Taylor Otwell", "Samsy Twig","None of these"],
+                            "correct_answer": "Taylor Otwell"
                         },
                         {
-                            "question": "What is 3+3?",
-                            "options": ["3", "4", "5", "6"],
-                            "correct_answer": "6"
+                            "question": "What is the use of .env file in Laravel?",
+                            "options": ["Setting Up local Environment variable", "Optimization", "Hosting", "None of these"],
+                            "correct_answer": "Setting Up local Environment variable"
                         },
                         {
-                            "question": "What is 3 + 2?",
-                            "options": ["3", "4", "5", "6"],
-                            "correct_answer": "5"
+                            "question": "Command to start Laravel Application?",
+                            "options": ["php artisan new", "php artisan", "php artisan start", "php artisan serve"],
+                            "correct_answer": "php artisan serve"
                         },
                         {
-                            "question": "What is the chemical symbol for gold?",
-                            "options": ["Au", "Ag", "Hg", "Fe"],
-                            "correct_answer": "Au"
+                            "question": "Command to install laravel project?",
+                            "options": ["composer create-project laravel/laravel myproject", "composer new-project laravel/laravel myproject", "composer create-project new laravel/laravel myproject", "None of these"],
+                            "correct_answer": "composer create-project laravel/laravel myproject"
                         },
                         {
-                            "question": "What is the chemical symbol for gold?",
-                            "options": ["Au", "Ag", "Hg", "Fe"],
-                            "correct_answer": "Au"
+                            "question": "By default laravel project runs on which PORT?",
+                            "options": ["3000", "5000", "8000", "1"],
+                            "correct_answer": "8000"
                         },
                         {
-                            "question": "What is the chemical symbol for gold?",
-                            "options": ["Au", "Ag", "Hg", "Fe"],
-                            "correct_answer": "Au"
+                            "question": "CLI Command to migrate in Laravel project?",
+                            "options": ["php artisan create migration", "php artisan migrate", "php artisan serve", "None of the above"],
+                            "correct_answer": "php artisan serve"
                         },
                         {
-                            "question": "What is the chemical symbol for gold?",
-                            "options": ["Au", "Ag", "Hg", "Fe"],
-                            "correct_answer": "Au"
-                        },
-                        {
-                            "question": "What is the chemical symbol for gold?",
-                            "options": ["Au", "Ag", "Hg", "Fe"],
-                            "correct_answer": "Au"
-                        },
-                        {
-                            "question": "What is the chemical symbol for gold?",
-                            "options": ["Au", "Ag", "Hg", "Fe"],
-                            "correct_answer": "Au"
-                        },
-                        {
-                            "question": "What is the chemical symbol for gold?",
-                            "options": ["Au", "Ag", "Hg", "Fe"],
-                            "correct_answer": "Au"
+                            "question": "Command to get the route list in Laravel?",
+                            "options": ["php artisan list", "php artisan route:list", "php artisan route", "php artisan list:all"],
+                            "correct_answer": "php artisan route:list"
                         }
                     ]
                 },
                 {
-                    "name": "Chemistry",
+                    "name": "Controller",
                     "questions": [
                         {
                             "question": "What is the chemical symbol for gold?",
@@ -69,7 +54,7 @@
                     ]
                 },
                 {
-                    "name": "Chemistry",
+                    "name": "Model",
                     "questions": [
                         {
                             "question": "What is the chemical symbol for gold?",
@@ -79,7 +64,7 @@
                     ]
                 },
                 {
-                    "name": "Chemistry",
+                    "name": "View",
                     "questions": [
                         {
                             "question": "What is the chemical symbol for gold?",
@@ -89,7 +74,7 @@
                     ]
                 },
                 {
-                    "name": "Chemistry",
+                    "name": "Route",
                     "questions": [
                         {
                             "question": "What is the chemical symbol for gold?",
@@ -99,7 +84,7 @@
                     ]
                 },
                 {
-                    "name": "Chemistry",
+                    "name": "Migration",
                     "questions": [
                         {
                             "question": "What is the chemical symbol for gold?",
@@ -111,7 +96,7 @@
             ]
         },
         {
-            "name": "Science",
+            "name": "PHP",
             "quizzes": [
                 {
                     "name": "Chemistry",
@@ -146,7 +131,7 @@
             ]
         },
         {
-            "name": "history",
+            "name": "React JS",
             "quizzes": [
                 {
                     "name": "Chemistry",
@@ -181,7 +166,7 @@
             ]
         },
         {
-            "name": "laravel",
+            "name": "Node JS",
             "quizzes": [
                 {
                     "name": "Chemistry",
@@ -216,7 +201,7 @@
             ]
         },
         {
-            "name": "java",
+            "name": "Angular",
             "quizzes": [
                 {
                     "name": "Chemistry",
@@ -286,7 +271,7 @@
             ]
         },
         {
-            "name": "laravel",
+            "name": "Java",
             "quizzes": [
                 {
                     "name": "Chemistry",
@@ -321,7 +306,7 @@
             ]
         },
         {
-            "name": "java",
+            "name": "Python",
             "quizzes": [
                 {
                     "name": "Chemistry",
@@ -356,7 +341,7 @@
             ]
         },
         {
-            "name": "CPP",
+            "name": "DBMS",
             "quizzes": [
                 {
                     "name": "Chemistry",
@@ -391,7 +376,7 @@
             ]
         },
         {
-            "name": "CPP",
+            "name": "Networking",
             "quizzes": [
                 {
                     "name": "Chemistry",
@@ -426,7 +411,7 @@
             ]
         },
         {
-            "name": "CPP",
+            "name": "OOPS",
             "quizzes": [
                 {
                     "name": "Chemistry",
@@ -461,7 +446,7 @@
             ]
         },
         {
-            "name": "CPP",
+            "name": "MongoDB",
             "quizzes": [
                 {
                     "name": "Chemistry",

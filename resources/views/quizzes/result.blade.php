@@ -8,7 +8,7 @@
 </head>
 <body class="body">
     <div class="result">
-        <h1>Quiz Result</h1>
+        <h1>Quiz Result :-</h1>
         <p>Your score is: {{ $score }}</p>
     </div>
     

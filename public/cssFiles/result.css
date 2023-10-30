@@ -7,8 +7,16 @@
 .result{
     background: linear-gradient(135deg,#0F3443 , #34E89E);
     height: 100vh;
+    margin-top: -2.2%;
 }
 .result h1{
-    padding-top: 30%;
+    padding-top: 15%;
     padding-left: 40%;
+    color: aliceblue;
+    font-size: 40px;
+}
+.result p{
+    padding-left: 40%;
+    color: aliceblue;
+    font-size: 25px;
 }

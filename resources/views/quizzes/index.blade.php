@@ -26,6 +26,19 @@
     <link href="{{ asset('cssFiles/styles.css') }}" rel="stylesheet">
 </head>
 <body class="body">
+    <div id="temp">
+        <div class='navbar'>
+            <div class='right-navbar'>
+                <img src="{{asset('logo.png')}}" alt="logo" />
+            </div>
+            <div class='left-navbar'>
+                
+                <p>Home</p>
+                <p>Products</p>
+                <p>About Us</p>
+                <p>Contact Us</p>
+            </div>
+        </div>
     <div class="container">
         <div id="row1">
             <h1>Quiz App</h1>

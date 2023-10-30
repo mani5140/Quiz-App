@@ -7,6 +7,7 @@
 #temp{
     background: linear-gradient(135deg,#0F3443 , #34E89E);
     height: 100vh;
+    
 }
 #temp h1{
     color: aliceblue;
@@ -24,7 +25,11 @@
     text-decoration: none;
     color: black;
     background: aliceblue;
-    padding: 2% 15%;
+    padding: 3% 25%;
+}
+#front-r2 a:hover{
+    background: black;
+    color: white;
 }
 #front-r2 h2{
     padding-top: 15%;
